@@ -4,7 +4,7 @@
 
 - **Họ và tên:** Tạ Đăng Dương
 - **Mã học viên:** 2A202603018
-- **Nhóm:** Nhóm X
+- **Nhóm:** X - Zone C
 - **Candidate problem nhóm chọn:** Chuẩn hóa commit message và tối ưu quy trình merge code nhiều lập trình viên khi push lên các nhánh feature và production trong dự án phát triển phần mềm.
 
 ---
