@@ -6,7 +6,7 @@
 
 - Họ và tên:
 - Mã học viên:
-- Nhóm:
+- Nhóm: X - Zone C
 - Candidate problem nhóm chọn:
 
 ---
