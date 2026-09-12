@@ -5,7 +5,7 @@
 - **Họ và tên:** Tạ Đăng Dương
 - **Mã học viên:** 2A202603018
 - **Nhóm:** Nhóm X
-- **Vai trò trong nhóm:** Phụ trách Validation & Research, đóng vai người phản biện kỹ thuật trong nhóm, và tham gia xây dựng ranh giới an toàn (Boundary) cũng như kiến trúc kiểm soát (Governed Workflow).
+- **Candidate problem nhóm chọn:** Chuẩn hóa commit message và tối ưu quy trình merge code nhiều lập trình viên khi push lên các nhánh feature và production trong dự án phát triển phần mềm.
 
 ---
 
