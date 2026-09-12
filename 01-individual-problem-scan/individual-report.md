@@ -2,8 +2,8 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên: [Điền Họ và Tên của bạn]
-- Mã học viên: [Điền Mã học viên]
+- Họ và tên: Tạ Đăng Dương
+- Mã học viên: 2A202603018
 - Vai trò / bối cảnh: Sinh viên năm cuối ngành Công nghệ thông tin / Kỹ thuật Dữ liệu & AI, Thực tập sinh Kỹ thuật Dữ liệu/NLP.
 - Công việc hằng tuần:
   - Khảo sát tài liệu nghiên cứu, đọc các bài báo (paper) chuyên ngành AI/ML để tìm baseline và phương pháp cải tiến mô hình.
